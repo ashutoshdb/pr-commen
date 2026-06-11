@@ -1,1 +1,3 @@
-token = asdasdasdsadsadasds acsdafgverwrtwerf3r
+token = asdasdasdsadsadasds acsdafgverwrtwerf3rsdawdadsa
+
+password =sdasdsdasdasdasdas
